@@ -1,0 +1,8 @@
+flask
+flask-cors
+onnxruntime==1.15.0
+numpy<2
+opencv-python
+pyyaml
+gunicorn
+mltu
